@@ -15,7 +15,7 @@
 .nav__link{
     margin: 15px;
     font-size: 20px;
-    width: 100%;
+    background-color: inherit;
     text-align: center;
     text-decoration: none;
 }
